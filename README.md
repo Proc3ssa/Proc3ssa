@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Proc3ssa
 - 👀 I’m interested in designing and building web and desktop application
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Git 
 - 💞️ I’m looking to collaborate on any innovative idea building
 - 📫 How to reach me #twitter https://twitter.com/processor_911/  
 <!---
