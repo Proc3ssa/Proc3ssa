@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **A cancer diagnosis system**
 
-- 🌱 I’m currently learning **REACT, Laravel**
+
 
 - 👯 I’m looking to collaborate on **Any challenging ideas**
 
-- 🤝 I’m looking for help with **integrating ChatGPT into one of my projectc**
+
 
 - 👨‍💻 All of my projects are available at [pros3sa.rf.gd](pros3sa.rf.gd)
 
